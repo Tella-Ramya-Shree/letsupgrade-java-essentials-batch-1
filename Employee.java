@@ -19,7 +19,7 @@ e1.display();
 Employee  e2=new Employee();
 e2.name="Ramya";
 e2.age=20;
-e2.city="banglore";
+e2.city="bangalore";
 e2.display();
 }
 }
